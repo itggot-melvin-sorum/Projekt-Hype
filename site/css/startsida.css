@@ -1,0 +1,152 @@
+body {
+
+    margin: 0;
+    background: url("../img/bg2_with_psd.jpg.") no-repeat;
+    background-size: cover;
+}
+
+
+
+.wall {
+    display: flex;
+    flex-direction: column;
+}
+
+.link1{
+    text-decoration: none;
+    color: white;
+    font-size: 30px; font-family: 'Signika', sans-serif; padding-bottom: 10px;
+
+}
+
+.link2{
+    text-decoration: none;
+    color: white;
+    font-size: 30px; font-family: 'Signika', sans-serif; padding-bottom: 10px;
+
+}
+
+.link3{
+    text-decoration: none;
+    color: white;
+    font-size: 30px; font-family: 'Signika', sans-serif; padding-bottom: 10px;
+
+}
+
+.link4{
+    text-decoration: none;
+    color: white;
+    font-size: 30px; font-family: 'Signika', sans-serif; padding-bottom: 10px;
+
+}
+
+
+
+.links {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+
+
+
+}
+
+.start {
+    display: flex;
+    flex-grow: 4;
+    height: 40px;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 3px;
+
+
+
+}
+
+.start:hover {
+
+    background-color: black;
+    opacity: 0.60;
+
+}
+
+.ett:hover {
+
+    background-color: black;
+    opacity: 0.60;
+
+}
+
+.två:hover {
+
+    background-color: black;
+    opacity: 0.60;
+
+}
+
+.tre:hover {
+
+    background-color: black;
+    opacity: 0.60;
+
+}
+
+.ett {
+    display: flex;
+    flex-grow: 4;
+    height: 40px;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 3px;
+
+
+
+
+
+}
+.två {
+    display: flex;
+    flex-grow: 4;
+    height: 40px;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 3px;
+
+
+
+}
+.tre {
+    display: flex;
+    flex-grow: 4;
+    height: 40px;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 3px;
+
+
+
+}
+
+.header {
+    margin-top: 50px;
+    margin-left: 175px;
+    color: #000000; font-family: 'Arial Black',sans-serif; font-size: 1.5vw;
+
+}
+
+.bild1 {
+    display: flex;
+    align-content: left;
+    align-items: left;
+    margin-left: 60px;
+
+
+}
